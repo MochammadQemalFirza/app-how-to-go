@@ -4,3 +4,5 @@ github.com/MochammadQemalFirza/how-to-go v1.1.0 h1:pSH5EeufbiUtaMGLAlAMfuwJMkgrq
 github.com/MochammadQemalFirza/how-to-go v1.1.0/go.mod h1:D35kYn3X/6/u4Gj47AC127H4onfBxKXP5+Ei9n1+YrM=
 github.com/MochammadQemalFirza/how-to-go/v2 v2.0.0 h1:S/k7qGJRhdPsKUtsOyygOx3fgc6r+OQu+jWhkvNqH7o=
 github.com/MochammadQemalFirza/how-to-go/v2 v2.0.0/go.mod h1:RYbTX25+C45c4MSbA1i8kiyZX3n22nJMhqvcg3l5SKc=
+github.com/MochammadQemalFirza/how-to-go/v2 v2.1.0 h1:ME3RUHtU1KDIHj5sDTIoyfUP6f97Lj1jL0/swKaNyfU=
+github.com/MochammadQemalFirza/how-to-go/v2 v2.1.0/go.mod h1:RYbTX25+C45c4MSbA1i8kiyZX3n22nJMhqvcg3l5SKc=

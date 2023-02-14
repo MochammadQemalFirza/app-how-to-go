@@ -8,4 +8,5 @@ import (
 
 func main() {
 	fmt.Println(howtogo.Hello("Rudi"))
+	fmt.Println(howtogo.Profesi("Programmer"))
 }
