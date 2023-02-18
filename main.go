@@ -7,7 +7,8 @@ import (
 )
 
 func main() {
-	fmt.Println(howtogo.Hello(" Rudi"))
-	fmt.Println(howtogo.Profesi(" Programmer"))
-	fmt.Println(howtogo.Hobby(" Memancing"))
+	fmt.Println(howtogo.Hello("Rudi"))
+	fmt.Println(howtogo.Profesi("Programmer"))
+	fmt.Println(howtogo.Hobby("Memancing"))
+	fmt.Println(howtogo.Makan("Spaghetti"))
 }
